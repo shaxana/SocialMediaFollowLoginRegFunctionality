@@ -1,0 +1,235 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Asmar",
+      "password": "Asmar123",
+      "friends": [
+        {
+          "id": 7,
+          "username": "Shahana",
+          "password": "shahana",
+          "friends": [],
+          "requests": []
+        }
+      ],
+      "requests": [],
+      "blockedusers": [
+        [
+          {
+            "id": 1,
+            "username": "Asmar",
+            "password": "Asmar123",
+            "friends": [
+              {
+                "id": 7,
+                "username": "Shahana",
+                "password": "shahana",
+                "friends": [],
+                "requests": []
+              }
+            ],
+            "requests": [],
+            "blockedusers": [
+              [
+                {
+                  "id": 1,
+                  "username": "Asmar",
+                  "password": "Asmar123",
+                  "friends": [
+                    {
+                      "id": 7,
+                      "username": "Shahana",
+                      "password": "shahana",
+                      "friends": [],
+                      "requests": []
+                    }
+                  ],
+                  "requests": [],
+                  "blockedusers": []
+                }
+              ]
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "id": 2,
+      "username": "Fatma",
+      "password": "Fatma123",
+      "friends": [
+        {
+          "id": 7,
+          "username": "Shahana",
+          "password": "shahana",
+          "friends": [],
+          "requests": []
+        },
+        {
+          "id": 3,
+          "username": "Hamida",
+          "password": "Hamida123",
+          "friends": [],
+          "requests": [
+            {
+              "id": 2,
+              "username": "Fatma",
+              "password": "Fatma123",
+              "friends": [
+                {
+                  "id": 7,
+                  "username": "Shahana",
+                  "password": "shahana",
+                  "friends": [],
+                  "requests": []
+                }
+              ],
+              "requests": []
+            }
+          ]
+        }
+      ],
+      "requests": [],
+      "blockedusers": []
+    },
+    {
+      "id": 3,
+      "username": "Hamida",
+      "password": "Hamida123",
+      "friends": [
+        {
+          "id": 2,
+          "username": "Fatma",
+          "password": "Fatma123",
+          "friends": [
+            {
+              "id": 7,
+              "username": "Shahana",
+              "password": "shahana",
+              "friends": [],
+              "requests": []
+            }
+          ],
+          "requests": []
+        }
+      ],
+      "requests": [],
+      "blockedusers": []
+    },
+    {
+      "id": 4,
+      "username": "Sevinj",
+      "password": "Sevinj123",
+      "friends": [],
+      "requests": [],
+      "blockedusers": []
+    },
+    {
+      "id": 5,
+      "username": "Fatima",
+      "password": "Fatima123",
+      "friends": [],
+      "requests": [],
+      "blockedusers": []
+    },
+    {
+      "id": 6,
+      "username": "Ismayil",
+      "password": "Ismayil123",
+      "friends": [],
+      "requests": [],
+      "blockedusers": []
+    },
+    {
+      "id": 7,
+      "username": "Shahana",
+      "password": "shahana",
+      "friends": [
+        {
+          "id": 1,
+          "username": "Asmar",
+          "password": "Asmar123",
+          "friends": [],
+          "requests": [
+            {
+              "id": 7,
+              "username": "Shahana",
+              "password": "shahana",
+              "friends": [],
+              "requests": []
+            }
+          ]
+        }
+      ],
+      "requests": [],
+      "blockedusers": [
+        []
+      ]
+    },
+    {
+      "username": "Laman",
+      "password": "Laman123",
+      "friends": [],
+      "requests": [],
+      "id": 8,
+      "blockedusers": []
+    },
+    {
+      "id": 9,
+      "username": "Samaya",
+      "password": "Samaya123",
+      "friends": [],
+      "requests": [],
+      "blockedusers": []
+    },
+    {
+      "id": 10,
+      "username": "Nicat",
+      "password": "Nicat123",
+      "friends": [],
+      "requests": [],
+      "blockedusers": []
+    },
+    {
+      "id": 11,
+      "username": "Ayan",
+      "password": "Ayan123",
+      "friends": [],
+      "requests": [],
+      "blockedusers": []
+    },
+    {
+      "id": 12,
+      "username": "Sabina",
+      "password": "Sabina123",
+      "friends": [],
+      "requests": [],
+      "blockedusers": []
+    },
+    {
+      "id": 13,
+      "username": "Aysun",
+      "password": "Aysun123",
+      "friends": [],
+      "requests": [],
+      "blockedusers": []
+    },
+    {
+      "id": 14,
+      "username": "Said",
+      "password": "Said123",
+      "friends": [],
+      "requests": [],
+      "blockedusers": []
+    },
+    {
+      "id": 15,
+      "username": "Nahid",
+      "password": "Nahid123",
+      "friends": [],
+      "requests": [],
+      "blockedusers": []
+    }
+  ]
+}
